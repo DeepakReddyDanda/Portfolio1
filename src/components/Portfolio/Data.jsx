@@ -8,10 +8,10 @@ export const Data = [
   {
     id: 1,
     image: Work1,
-    title: "Lorem ipsum",
+    title: "Portfolio",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta placeat corporis soluta, iusto voluptatum rerum.",
-    link1: "#",
+      "Portfolio that provides my professional information, skills that I have, services that I can provide to a company and my contact info using Reactjs",
+    link1: "#https://github.com/DeepakReddyDanda/portfolio1",
     link2: "#",
   },
   {
