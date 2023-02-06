@@ -11,7 +11,7 @@ export const Data = [
     title: "Portfolio",
     description:
       "Portfolio that provides my professional information, skills that I have, services that I can provide to a company and my contact info using Reactjs",
-    link1: "#https://github.com/DeepakReddyDanda/portfolio1",
+    link1: "https://github.com/DeepakReddyDanda/portfolio1",
     link2: "#",
   },
   {
